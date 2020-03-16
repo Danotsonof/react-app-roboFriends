@@ -4,6 +4,8 @@
 
 My first try-out with learning React
 
+Live page <a href='https://danotsonof.github.io/roboblog/'>here</a>.
+
 <i>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<i>
 
 ## Available Scripts
