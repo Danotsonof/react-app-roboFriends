@@ -4,6 +4,8 @@
 
 My first try-out with learning React
 
+This branch contains the development files
+
 <i>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<i>
 
 ## Available Scripts
